@@ -1,0 +1,15 @@
+<script>start("e:\\desigh4\\css\\sabay\\img\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("1.jpg","1.jpg",0,184226,"180 kB",1743523718,"4/1/25, 11:08:38 PM");</script>
+<script>addRow("1.png","1.png",0,1049291,"1.0 MB",1744085273,"4/8/25, 11:07:53 AM");</script>
+<script>addRow("2.png","2.png",0,989382,"966 kB",1743523737,"4/1/25, 11:08:57 PM");</script>
+<script>addRow("3.jpg","3.jpg",0,126003,"123 kB",1743568617,"4/2/25, 11:36:57 AM");</script>
+<script>addRow("3.png","3.png",0,914027,"893 kB",1743568665,"4/2/25, 11:37:45 AM");</script>
+<script>addRow("4.jpg","4.jpg",0,168947,"165 kB",1743568576,"4/2/25, 11:36:16 AM");</script>
+<script>addRow("4.png","4.png",0,1621435,"1.5 MB",1743684389,"4/3/25, 7:46:29 PM");</script>
+<script>addRow("5.jpg","5.jpg",0,211121,"206 kB",1743583469,"4/2/25, 3:44:29 PM");</script>
+<script>addRow("6.jpg","6.jpg",0,411476,"402 kB",1744299792,"4/10/25, 10:43:12 PM");</script>
+<script>addRow("7.jpg","7.jpg",0,156745,"153 kB",1744301089,"4/10/25, 11:04:49 PM");</script>
+<script>addRow("8.png","8.png",0,914027,"893 kB",1744433581,"4/12/25, 11:53:01 AM");</script>
+<script>addRow("9.jpg","9.jpg",0,168137,"164 kB",1744435990,"4/12/25, 12:33:10 PM");</script>
+<script>addRow("logo.png","logo.png",0,10926,"10.7 kB",1743522055,"4/1/25, 10:40:55 PM");</script>
